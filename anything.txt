@@ -1,0 +1,1 @@
+this file for testing the command of git pull "remote_repo_name".

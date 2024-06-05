@@ -7,4 +7,5 @@
 5.git push "repo_name" "branch_name" => to push the commit into the branch.<br>
 6.git branch => to get branch_name.<br>
 7.git remote -v => to get repo_name.<br>
-8.test
+8.git pull "remote_repo_name" => to get a copy of somthing in remote repo in your local branch.<br>
+// making 2 commands togither 1-git fetch 2-git merge<br>
